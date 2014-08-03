@@ -1,0 +1,157 @@
+# Translation of 2.4.x in Portuguese (Brazil)
+# This file is distributed under the same license as the 2.4.x package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2014-06-14 18:44-0300\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 1.6.5\n"
+"Project-Id-Version: 2.4.x\n"
+"POT-Creation-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pt_BR\n"
+
+#: includes/common/template.php:2572
+#: templates/default/bbpress/user-details.php:29
+msgid "%s's Profile"
+msgstr "Perfil de %s"
+
+#: includes/common/template.php:2580
+msgid "Edit Your Profile"
+msgstr "Editar o seu perfil"
+
+#: includes/common/template.php:2585
+#: templates/default/bbpress/user-details.php:65
+msgid "Edit %s's Profile"
+msgstr "Editar perfil de %s"
+
+#: includes/common/template.php:2593
+msgid "View: %s"
+msgstr "Ver: %s"
+
+#: includes/common/widgets.php:39
+msgid ""
+"A simple login form with optional links to sign-up and lost password pages."
+msgstr ""
+"Um formulário de login simples com links opcionais para as páginas de "
+"cadastro e recuperação de senha."
+
+#: includes/common/widgets.php:42
+msgid "(bbPress) Login Widget"
+msgstr "(bbPress) Widget de login"
+
+#: includes/common/widgets.php:89 includes/common/widgets.php:110
+#: templates/default/bbpress/form-user-login.php:14
+#: templates/default/bbpress/form-user-login.php:35
+msgid "Log In"
+msgstr "Entrar"
+
+#: includes/common/widgets.php:92
+#: templates/default/bbpress/form-user-edit.php:98
+#: templates/default/bbpress/form-user-login.php:17
+#: templates/default/bbpress/form-user-register.php:23
+msgid "Username"
+msgstr "Nome de usuário"
+
+#: includes/common/widgets.php:97
+#: templates/default/bbpress/form-user-login.php:22
+msgid "Password"
+msgstr "Senha"
+
+#: includes/common/widgets.php:103
+msgid "Remember Me"
+msgstr "Lembrar de mim"
+
+#: includes/common/widgets.php:122
+#: templates/default/bbpress/form-user-register.php:36
+msgid "Register"
+msgstr "Registrar"
+
+#: includes/common/widgets.php:128
+#: templates/default/bbpress/form-user-lost-pass.php:14
+msgid "Lost Password"
+msgstr "Recuperar senha"
+
+#: includes/common/widgets.php:185 includes/common/widgets.php:337
+#: includes/common/widgets.php:465 includes/common/widgets.php:634
+#: includes/common/widgets.php:876 includes/common/widgets.php:1030
+#: includes/common/widgets.php:1235
+msgid "Title:"
+msgstr "Título:"
+
+#: includes/common/widgets.php:190
+msgid "Register URI:"
+msgstr "URL de registro:"
+
+#: includes/common/widgets.php:195
+msgid "Lost Password URI:"
+msgstr "URL de recuperação de senha."
+
+#: includes/common/widgets.php:692
+msgid "A list of recent topics, sorted by popularity or freshness."
+msgstr ""
+"Uma lista de tópicos recentes, organizada por: mais populares ou mais "
+"recentes."
+
+#: includes/common/widgets.php:815
+msgctxt "widgets"
+msgid "by %1$s"
+msgstr "por %1$s"
+
+#: includes/common/widgets.php:877
+msgid "Maximum topics to show:"
+msgstr "Limite de tópicos visíveis:"
+
+#: includes/admin/tools.php:408
+msgid "group-forums"
+msgstr "grupo=fóruns"
+
+#: includes/admin/tools.php:424
+msgid ""
+"Complete! %s groups updated; %s forums updated; %s forum statuses synced."
+msgstr ""
+"Concluído! %s grupos atualizados;%s fóruns atualizados; %s status de fóruns "
+"sincronizados."
+
+#: includes/admin/tools.php:443
+msgid "Counting the number of topics in each forum&hellip; %s"
+msgstr "Contando o número de tópicos em cada fórum&hellip; %s"
+
+#: includes/admin/tools.php:477
+msgid "Counting the number of replies in each forum&hellip; %s"
+msgstr "Contando o número de respostas em cada fórum&hellip; %s"
+
+#: includes/admin/tools.php:509
+msgid "Counting the number of topics each user has created&hellip; %s"
+msgstr "Contar o número de tópicos criados por cada usuário&hellip; %s"
+
+#: includes/admin/tools.php:554
+msgid "Counting the number of topics to which each user has replied&hellip; %s"
+msgstr "Contando o número de tópicos respondidos por cada usuário& hellip; %s"
+
+#: includes/admin/tools.php:629 includes/admin/tools.php:690
+msgid "Nothing to remove!"
+msgstr "Nada a remover!"
+
+#: includes/admin/tools.php:661
+msgid "Removing trashed topics from user subscriptions&hellip; %s"
+msgstr "Removendo tópicos eliminados das subscrições dos usuários&hellip;%s"
+
+#: includes/admin/tools.php:723
+msgid "Remapping forum role for each user on this site&hellip; %s"
+msgstr "Remapear a função de cada usuário do fórum neste site&helip; %s"
+
+#: includes/admin/tools.php:761
+msgid "Complete! %s users updated."
+msgstr "Concluído! %s usuários atualizados."
+
+#: includes/common/template.php:2468
+msgid "Log Out"
+msgstr "Sair"
+
+#: includes/common/functions.php:123
+msgid "minute"
+msgstr "Minutos"
