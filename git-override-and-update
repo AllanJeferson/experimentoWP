@@ -1,0 +1,4 @@
+# git-override-and-update
+git fetch --all
+git reset --hard origin/master
+
